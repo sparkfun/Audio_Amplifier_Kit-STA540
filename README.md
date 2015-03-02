@@ -2,6 +2,7 @@ SparkFun Audio Amplifier Kit - STA540
 ======================================
 
 ![SparkFun Audio Amplifier Kit - STA540](https://cdn.sparkfun.com//assets/parts/3/4/4/1/09612-06.jpg)
+
 [*SparkFun Audio Amplifier Kit - STA540 (KIT-09612)*](https://www.sparkfun.com/products/9612)
 
 This is a stereo amplifier kit designed to make use of the STA540 power amplifier IC. 
